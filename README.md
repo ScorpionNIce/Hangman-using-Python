@@ -16,4 +16,5 @@ Compiling Code:
 About Game:
   This game is about replicating Hangman game on computer. In this game, user have to predict the word for which he is given word length and he has 10 chances to predict each letter from word. Game GUI shows all letters in word by "*" initially. When user predicts a letter correctly, Game GUI turns the particular * into predicted letter from word giving user idea about predicted letter's actual place in word. If user predicts wrong letter, he loses one chance. Game continues till user either predicts all letters correctly or he runs out of chances. If user predicts word correctly, he can continue game for next word while retaining his score. But if he loses he will have to start again.
   
-Furhter work:
+Further work:
+  Game is extensible with other ideas like High Score system, Multi-Player battles, expanding game word list, making more interactable GUI, etc.
